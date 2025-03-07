@@ -1,0 +1,1 @@
+This package implements the Calibrated Computation-aware Gaussian Processes as described in [this paper](https://arxiv.org/abs/2410.08796). 
